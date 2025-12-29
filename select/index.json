@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ガラスのくつ",
+  "base_artist": "いとうかなこ",
+  "createdAt": "2025-12-29T07:45:07.087499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガラスのくつ",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/01_ガラスのくつ_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガラスのくつ",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/02_ガラスのくつ_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガラスのくつ",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/03_ガラスのくつ_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガラスのくつ 【歌：いとうかなこ】",
+      "artist": "Nitro+",
+      "has_synced": true,
+      "path": "select/04_ガラスのくつ_【歌_いとうかなこ】_Nitro+.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガラスのくつ",
+      "artist": "misono",
+      "has_synced": true,
+      "path": "select/05_ガラスのくつ_misono.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスのくつ",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスのくつ_いとう_かなこ.txt"
+    }
+  ]
+}
